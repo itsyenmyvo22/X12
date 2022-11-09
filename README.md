@@ -7,4 +7,7 @@ Hi this is Natalie
   return(answer)
   }`  #made a function to add numbers
 
-Hello this is natalie again
+`subtract <- function(a, b) {
+  answer <- a - b
+  return(answer)
+  }` #made a function to subtract numbers 
