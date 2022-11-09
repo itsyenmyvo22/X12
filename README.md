@@ -13,7 +13,10 @@ Hi this is Natalie
   }` #made a function to subtract numbers
 <<<<<<< HEAD
 
-Hi this is Yenmy 
+Hi this is Yenmy
 =======
- Hello this is natalie 
+ Hello this is natalie
 >>>>>>> 281a7ce8f629cdebf312c1f0723c786f6e5e47f4
+
+
+Hello world
