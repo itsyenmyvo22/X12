@@ -13,6 +13,7 @@ Hi this is Natalie
   }` #made a function to subtract numbers
 
 Hi this is Yenmy
+<<<<<<< HEAD
 
 
 
@@ -20,3 +21,11 @@ Hi this is Yenmy
 
 
 bts world 
+=======
+=======
+ Hello this is natalie
+>>>>>>> 281a7ce8f629cdebf312c1f0723c786f6e5e47f4
+
+
+Hello world
+>>>>>>> d84140066f9f1d87c9f1a7fe5b0adc803c19d5aa
