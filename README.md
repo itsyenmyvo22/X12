@@ -10,4 +10,5 @@ Hi this is Natalie
 `subtract <- function(a, b) {
   answer <- a - b
   return(answer)
-  }` #made a function to subtract numbers 
+  }` #made a function to subtract numbers
+ Hello this is natalie 
